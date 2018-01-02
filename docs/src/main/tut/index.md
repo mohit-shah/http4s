@@ -74,7 +74,7 @@ back, you should see a line similar to this:
 264 [run-main-0] INFO org.http4s.blaze.channel.nio1.NIO1SocketServerGroup - Service bound to address /127.0.0.1:8080
 ```
 
-This indicates that /blaze/, htttp4s' native server backend, is
+This indicates that /blaze/, http4s' native server backend, is
 running our service on port 8080.  Let's try out the hello world
 service with curl:
 
